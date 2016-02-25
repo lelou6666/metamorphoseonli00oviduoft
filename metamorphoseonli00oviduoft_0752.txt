@@ -1,0 +1,64 @@
+sab 1
+
+fab 2
+
+714 Lactantii Placidi qui dicitur narrationes.
+
+46 Egeria nympha, coniunx Numae,·in fontem
+47 Glaeba in puerum eundem Tagen nomine
+48 Iaculum Romuli in arborem
+49 Cipi frons in cornua
+50 Aesculapius in draconem
+51 Caesar in stellam
+
+MysceluS, Alemonis filius, procreatus ArgiS, cum quieti se dedisset,
+Hercules visus est, qui eum moneret, ut patriam relinqueret et
+secundum Aesarem amnem consideret. qui cum facere extimesceret,
+quia lex vetaret deserere patriam et in aliam civitatem transire, rursus
+admonitus est. metuens itaque penates suos destituit ideoque in
+iudicium publicum est devocatus. et cum partem pro se populi,
+partem adversus se haberet, iudicaturis calculi albi ac nigri dati sunt,
+ut atri damnarent, candidi absolverent. Myscelus itaque praetimens
+periculum capitis Herculem invocavit, ut laboranti sibi, quia eius
+iussis obtemperasset, ferret auxilium; cuius preces non in cassum
+abierunt. nam cum calculi more patriae urna effusi diducti essent,
+omnes apparuerunt in colorem album conversi. quam ob rem ille
+metu liberatus per Ionium pelagus navigans cum Italiam venisset et
+Aesarem amnem attigisset, sicut praeceptum erat, urbem constituit
+eamque a proximo tumulo, cui Tares Neptuni filius subiectus erat,
+Tarentum nominavit Pythagoras Samius tyrannidem fugiens
+cum patriam reliquisset, in Italiam venit et quae didicerat de rernm
+
+1 Aegeria L {1 coniuxL ΙΙ Egeria in fontem vulgo 2 nomine (coll p 720, 9)
+Ehwald {l eundem itagen nomen L, eundem tagen nomme (sic) V ΙΙ Gleba in
+pueri figuram mutata vulgo 4 Cipi scripsi, cipri L, Gippi VH fonsL ΙΙ Gippus
+factus cornutus vulyo 6 sic L V, Iulius Caesar in cometen vulgo
+
+Sinyulis fabulis praeponuntur numeri Latini, non tituli in L ΙΙ ne numeri
+
+“ quidem exstant in P,- sed post sinyula aryumenta additur prior quaeque pars eius
+
+versae, quo incipit fabula Ovidium.
+
+7 Myscelus ed Colon, micilus L P, Micilius V, Mycilus vulyo ΙΙ argis P
+V vulyo, agris L 9 esarem L V, cesarem P ΙΙ amcffim (ἓ) Ρ ΙΙ considere
+L 10 uetaret Ρ V, uetarat L ΙΙ diserere P Η transire Ρ, transiret L V
+12sq et cum—haberet] sic (se et pop. L V) Ρ L V, et cum omnem populum
+adversus se haberet (ex met XV 43sq) vulgo 13 iudicaturi P 13s15 ac nigri—
+capitis om Ρ 14 micilus (cf lin 7)12 V ΙΙ praetimens L V, pertimescens vulgo
+15 laborantis quia P 17 patriae L V, patria P 11 urna effusi diducti P, in urna
+effusi deducti L V vulyo, in urnam effusi educti vel ex urna effusi Burm
+19 iolium P ΙΙ cum italiam P L V, cum in Italiam vulgo 20 esarem P L V
+21 tares P L V vulgo, an Taras? cf Servius in Aen III 551 ΙΙ subiectum P
+22 tarentu L, tar-notum P ΙΙ Queritur interea quis tante qd (met XV Ι) add P
+
+22 Phitagoras P 23 didicuit P
+
+5
+
+10
+
+15
+
+20
+
