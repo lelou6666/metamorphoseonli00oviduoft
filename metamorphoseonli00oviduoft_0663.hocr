@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./metamorphoseonli00oviduoft/metamorphoseonli00oviduoft_0663.png"; bbox 0 0 2580 4088; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 11 1618 94 1646">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 11 1618 94 1646">
+     <span class='ocr_line' id='line_1_1' title="bbox 11 1618 94 1646; baseline 0.036 -3"><span class='ocrx_word' id='word_1_1' title='bbox 11 1618 94 1646; x_wconf 38' lang='lat' dir='ltr'><strong>N,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 173 1657 2184 1926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 173 1657 2184 1926">
+     <span class='ocr_line' id='line_1_2' title="bbox 380 1657 1957 1771; baseline 0.001 -17"><span class='ocrx_word' id='word_1_2' title='bbox 380 1657 865 1756; x_wconf 81' lang='lat' dir='ltr'><strong>LACTANTII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 926 1659 1300 1756; x_wconf 83' lang='lat' dir='ltr'><strong>PLACIDI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1359 1659 1523 1771; x_wconf 72' lang='lat' dir='ltr'><strong>QVI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1581 1659 1957 1756; x_wconf 84' lang='lat' dir='ltr'>DICITVR</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 173 1828 2184 1926; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 173 1828 816 1926; x_wconf 85' lang='lat' dir='ltr'><strong>NARRATIONES</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 876 1829 1443 1925; x_wconf 84' lang='lat' dir='ltr'><strong>FABVLARVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1504 1828 2184 1926; x_wconf 83' lang='lat' dir='ltr'><strong>OVIDIANARVM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 9 2218 1344 2812">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 9 2165 1344 2859">
+     <span class='ocr_line' id='line_1_4' title="bbox 9 2218 1344 2812; baseline -0.058 49"><span class='ocrx_word' id='word_1_9' title='bbox 9 2218 35 2812; x_wconf 57' lang='grc' dir='ltr'>ῐ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1006 2278 1344 2283; x_wconf 23' lang='grc' dir='ltr'>ὲ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
